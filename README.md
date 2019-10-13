@@ -1,2 +1,9 @@
-# Hello-World-
-New to programming.
+#include <stdio.h>
+
+int main(void)
+
+{
+
+printf("Hello, world"\n");
+
+}
